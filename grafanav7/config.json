@@ -1,6 +1,6 @@
 {
   "name": "Grafana-v7",
-  "version": "dev",
+  "version": "v1.0.0",
   "slug": "grafanav7",
   "description": "The open platform for beautiful analytics and monitoring",
   "url": "https://github.com/ohadlevy/ha-addons/grafanav7",
