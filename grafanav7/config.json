@@ -1,9 +1,9 @@
 {
   "name": "Grafana-v7",
   "version": "dev",
-  "slug": "grafana-v7",
+  "slug": "grafanav7",
   "description": "The open platform for beautiful analytics and monitoring",
-  "url": "https://github.com/hassio-addons/addon-grafana",
+  "url": "https://github.com/ohadlevy/ha-addons/grafanav7",
   "startup": "services",
   "ingress": true,
   "ingress_port": 1337,
