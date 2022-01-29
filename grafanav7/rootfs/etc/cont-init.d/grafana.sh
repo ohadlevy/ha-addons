@@ -50,4 +50,4 @@ if bashio::config.has_value 'plugins'; then
             || bashio::exit.nok "Failed installing Grafana plugin: ${plugin}"
     done
 fi
-grafana-cli --pluginUrl https://github.com/panodata/grafana-map-panel/releases/download/0.15.0/grafana-map-panel-0.15.0.zip plugins install grafana-worldmap-panel-ng
+grafana-cli --pluginUrl https://github.com/panodata/panodata-map-panel/releases/download/0.16.0/panodata-map-panel-0.16.0.zip plugins install grafana-worldmap-panel-ng
