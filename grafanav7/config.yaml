@@ -9,6 +9,7 @@ startup: services
 ingress: true
 ingress_port: 1337
 ingress_stream: true
+image: ohadlevy/addon-grafanav7-{arch}
 panel_icon: mdi:chart-timeline
 panel_title: Grafana
 arch:
