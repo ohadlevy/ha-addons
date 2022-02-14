@@ -2,7 +2,8 @@
 name: Grafana-v7
 version: dev
 slug: grafanav7
-description: The open platform for beautiful analytics and monitoring, optimized for teslamate usage
+description: The open platform for beautiful analytics and monitoring,
+ optimized for Teslamate usage
 url: https://github.com/ohadlevy/ha-addons/grafanav7,
 startup: services
 ingress: true
